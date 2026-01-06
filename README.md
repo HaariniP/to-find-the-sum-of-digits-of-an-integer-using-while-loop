@@ -1,0 +1,1 @@
+# to-find-the-sum-of-digits-of-an-integer-using-while-loop
